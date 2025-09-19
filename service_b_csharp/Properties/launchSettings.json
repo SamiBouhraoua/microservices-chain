@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "service_b_csharp": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://127.0.0.1:9002"
+    }
+  }
+}
